@@ -1,0 +1,32 @@
+_repo: Life-of-Oliver-Wendell-Holmes_37878
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, E. E. (Emma Elizabeth)
+    alias: Brown, Emma Elizabeth
+    birthdate: 1847
+    gutenberg_agent_id: '36881'
+    url: http://www.gutenberg.org/2009/agents/36881
+description: Best known today as author of The Autocrat of the Breakfast-Table , the
+  physician, poet, and lecturer Oliver Wendell Holmes Sr. (1809-1894) was one of Mark
+  Twain's favorite writers. This 1884 biography traces his early years and successful
+  career in science and in writing. Brown is able to create a distinct narrative,
+  as Holmes himself supplied her with fresh material and directed her in the making
+  of the book.
+gutenberg_issued: '2011-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holmes, Oliver Wendell, 1809-1894'
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+title: Life of Oliver Wendell Holmes
+url: http://www.gutenberg.org/ebooks/37878
